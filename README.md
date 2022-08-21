@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @johnsimeroth
-- 👀 I’m interested in learning to code, real estate, stonks, and mechanical engineering.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything I write, I would love feedback!
-- 📫 How to reach me ...
+HI. I'm new to Git, and to coding in general. 
+I'm starting with python and an algorithms course.
+I'm looking forward to learning, and I'd love any feedback/suggestions!
 
 <!---
 johnsimeroth/johnsimeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
