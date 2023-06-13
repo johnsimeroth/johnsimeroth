@@ -1,6 +1,6 @@
 - Software & Mechanical Design Engineer
-- Student @ Hack Reactor
-- Current project: System design capstone - a scaleable back end for our web-store front end
+- Currently working on: cleanStay, a task management app for short term rental cleaners and hosts
+- Next language to learn: typescript <3
 
 <!---
 johnsimeroth/johnsimeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
