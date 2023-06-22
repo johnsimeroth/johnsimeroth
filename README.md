@@ -20,12 +20,12 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-%3578E5?style=for-the-badge)
+![React Navigation](https://img.shields.io/badge/React_Navigation-%7762BB?style=for-the-badge)
 
 ### Back-End-ish
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Node](https://img.shields.io/badge/node.js-%339933?style=for-the-badge&logo=nodedotjs)
+![Node](https://img.shields.io/badge/node.js-%339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Style and Design
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
