@@ -25,7 +25,7 @@
 ### Back-End-ish
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Node](https://img.shields.io/badge/node.js-%#339933?style=for-the-badge&logo=nodedotjs)
+![Node](https://img.shields.io/badge/node.js-%339933?style=for-the-badge&logo=nodedotjs)
 
 ### Style and Design
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
