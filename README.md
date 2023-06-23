@@ -1,8 +1,11 @@
 ## Hi, I'm Johnathan
 - Full Stack generalist, Data nerd, Mechanical Product Designer
 - Currently working on: cleanStay, a task management app for short term rental cleaners and hosts (React native, firebase)
-- Next language to conquer: typescript <3
-- Next backend skill to take on: kubernetes 🛳️ 
+- Learning next: TypeScript
+
+## What's Next
+
+I'm looking for a full-stack, front-end, or back-end web and/or mobile dev role that aligns with my skills and experience. I'm open to (and in fact prefer) learning new skills and technologies as well! Please reach out on [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) if you're interested in working together, whether that's bringing me on as a full time hire for your company, or just collaborating as a peer on a hobby/open-source project!
 
 ## Skills and Tools
 
@@ -41,8 +44,18 @@
 ![React Native Paper](https://img.shields.io/badge/React_Native_Paper-21005D?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Links
+- [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) 💼 
 
-<!---
-johnsimeroth/johnsimeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software projects
+- [cleanStay (WIP)](https://github.com/johnsimeroth/cleanStay) 🧼 
+- [FitBook](https://github.com/clari-NET/fitbook) 💪 
+- [Atelier Front-End](https://github.com/Black-Clover-FEC/black-clover-FEC) 🛍️ 
+- [Atelier Overview API](https://github.com/Lybica-SDC/Overview-API) 🛍️ 
+
+### Hardware projects
+- [Vision Pro](https://www.apple.com/apple-vision-pro) 😎 
+- [35W Dual USB-C Port Compact Power Adapter](https://www.apple.com/shop/product/MNWM3AM/A/35w-dual-usb-c-port-compact-power-adapter) ⚡️ 
+- [UK 20W USB-C Folding Pin Power Adapter](https://www.apple.com/uk/shop/product/MHJF3B/A/20w-usb-c-power-adapter) ⚡️ 
+- [20W USB-C Power Adapter](https://www.apple.com/shop/product/MHJA3AM/A/20w-usb-c-power-adapter) ⚡️ 
+- [96W USB-C Power Adapter](https://www.apple.com/shop/product/MX0J2AM/A/96w-usb-c-power-adapter) ⚡️ 
