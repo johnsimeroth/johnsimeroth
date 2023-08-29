@@ -52,6 +52,7 @@ I'm looking for a full-stack, front-end, or back-end web and/or mobile dev role 
 - [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) 💼 
 
 ### Software projects
+- [learn-tamagui (WIP)](https://github.com/johnsimeroth/learn-tamagui) 🧠
 - [cleanStay (WIP)](https://github.com/johnsimeroth/cleanStay) 🧼 
 - [FitBook](https://github.com/clari-NET/fitbook) 💪 
 - [Atelier Front-End](https://github.com/Black-Clover-FEC/black-clover-FEC) 🛍️ 
