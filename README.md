@@ -1,7 +1,7 @@
 ## Hi, I'm Johnathan
 - Full Stack generalist, Data nerd, Mechanical Product Designer
 - Currently working on: cleanStay, a task management app for short term rental cleaners and hosts (React native, firebase)
-- Learning next: TypeScript
+- Learning next: Kubernetes
 
 ## What's Next
 
@@ -10,6 +10,7 @@ I'm looking for a full-stack, front-end, or back-end web and/or mobile dev role 
 ## Skills and Tools
 
 ### General-ish
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
