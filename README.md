@@ -1,6 +1,6 @@
 ## Hi, I'm Johnathan
 - Full Stack generalist, Data nerd, Mechanical Product Designer
-- Currently working on: cleanStay, a task management app for short term rental cleaners and hosts (React native, firebase)
+- Currently working on: learn-tamagui, a guided tutorial for learning the ins and outs of tamagui (and solito) for universal app design
 - Learning next: Kubernetes
 
 ## What's Next
@@ -21,6 +21,8 @@ I'm looking for a full-stack, front-end, or back-end web and/or mobile dev role 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Solito](https://img.shields.io/badge/solito-00CCFF?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Navigation](https://img.shields.io/badge/React_Navigation-7762BB?style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
