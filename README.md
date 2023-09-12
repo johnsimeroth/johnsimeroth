@@ -5,7 +5,7 @@
 
 ## What's Next
 
-I'm looking for a full-stack, front-end, or back-end web and/or mobile dev role that aligns with my skills and experience. I'm open to (and in fact prefer) learning new skills and technologies as well! Please reach out on [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) if you're interested in working together, whether that's bringing me on as a full time hire for your company, or just collaborating as a peer on a hobby/open-source project!
+I'm looking for a full-stack web/mobile dev role that aligns with my skills and experience. Roles focused on front-end or back-end are great too, I'm comfortable in any part of the stack. I'm open to (and in fact prefer) learning new skills and technologies as well! Please reach out on [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) if you're interested in working together, whether that's bringing me on as a full time hire for your company, or just collaborating as a peer on a hobby/open-source project!
 
 ## Skills and Tools
 
