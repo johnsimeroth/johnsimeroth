@@ -1,6 +1,6 @@
 ## Hi, I'm Johnathan
 - Full Stack generalist, Data nerd, Mechanical Product Designer
-- Currently working on: learn-tamagui, a guided tutorial for learning the ins and outs of tamagui (and solito) for universal app design. Currently, the app is in its infancy and just gives an overview of how the tamagui components look on various platforms, all in one place. You can [access the deployed version here](https://tinyurl.com/learn-tamagui). There are also some high level explainers in the github readme, that I am working on converting to interactive lessons.
+- Currently working on: learn-tamagui, a guided tutorial for learning the ins and outs of tamagui (and solito) for universal app design. Currently, the app is in its infancy and just gives an overview of how the tamagui components look on various platforms, all in one place. You can [access the deployed version here](https://learn-tamagui.vercel.app). There are also some high level explainers in the github readme, that I am working on converting to interactive lessons.
 - Learning next: Kubernetes
 
 ## What's Next
@@ -63,7 +63,7 @@ I'm looking for a full-stack web/mobile dev role that aligns with my skills and 
 
 ### Software projects
 - [learn-tamagui github (WIP)](https://github.com/johnsimeroth/learn-tamagui) 🧠
-  - [(access the deployed version here)](https://tinyurl.com/learn-tamagui)
+  - [(access the deployed version here)](https://learn-tamagui.vercel.app)
 - [cleanStay (WIP)](https://github.com/johnsimeroth/cleanStay) 🧼 
 - [FitBook](https://github.com/clari-NET/fitbook) 💪 
 - [Atelier Front-End](https://github.com/Black-Clover-FEC/black-clover-FEC) 🛍️ 
