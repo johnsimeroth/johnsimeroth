@@ -1,13 +1,16 @@
-## Hi, I'm Johnathan
-- Full Stack generalist, Data nerd, Mechanical Product Designer
-- Currently working on: learn-tamagui, a guided tutorial for learning the ins and outs of tamagui (and solito) for universal app design. Currently, the app is in its infancy and just gives an overview of how the tamagui components look on various platforms, all in one place. You can [access the deployed version here](https://learn-tamagui.vercel.app). There are also some high level explainers in the github readme, that I am working on converting to interactive lessons.
-- Learning next: Kubernetes
+## Hi, I'm Johnathan!
+- Full Stack generalist (with more of a FE specialist lean, lately)
+- Data nerd
+- Mechanical Product Designer
 
-## What's Next
+## Current cool stuff I get to work on
+- Frontend Engineer @ Canva (where I have a separate gh account). Working on our charts product!
+- Cofounder and Tech Lead of Pug Sports, where we're architecting a better way to book, host, and play pickup games.
 
-I'm looking for a full-stack web/mobile dev role that aligns with my skills and experience. Roles focused on front-end or back-end are great too, I'm comfortable in any part of the stack. I'm open to (and in fact prefer) learning new skills and technologies as well! Please reach out on [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) if you're interested in working together, whether that's bringing me on as a full time hire for your company, or just collaborating as a peer on a hobby/open-source project!
+## What's next
+For now, I plan to continue doing what I'm doing, because I'm having a blast. Nonetheless, I love connecting and always enjoy learning new things. Please reach out on [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) if you're interested in chatting or working together in some way.
 
-## Skills and Tools
+## Some technologies I've used in recent projects
 
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,8 +19,10 @@ I'm looking for a full-stack web/mobile dev role that aligns with my skills and 
 
 ### Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Mobx](https://img.shields.io/badge/MobX-FF9955.svg?style=for-the-badge&logo=MobX&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Solito](https://img.shields.io/badge/solito-00CCFF?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -62,12 +67,13 @@ I'm looking for a full-stack web/mobile dev role that aligns with my skills and 
 - [LinkedIn](https://www.linkedin.com/in/johnathan-simeroth) 💼 
 
 ### Software projects
-- [learn-tamagui github (WIP)](https://github.com/johnsimeroth/learn-tamagui) 🧠
+- Pug - We're entering Alpha testing; link to landing page for Beta coming soon. ⚽️ 
+- [learn-tamagui github (Paused)](https://github.com/johnsimeroth/learn-tamagui) 🧠
   - [(access the deployed version here)](https://learn-tamagui.vercel.app)
-- [cleanStay (WIP)](https://github.com/johnsimeroth/cleanStay) 🧼 
-- [FitBook](https://github.com/clari-NET/fitbook) 💪 
-- [Atelier Front-End](https://github.com/Black-Clover-FEC/black-clover-FEC) 🛍️ 
-- [Atelier Overview API](https://github.com/Lybica-SDC/Overview-API) 🛍️ 
+- cleanStay (Paused) Private Repo 🧼 
+- [FitBook (student project)](https://github.com/clari-NET/fitbook) 💪 
+- [Atelier Front-End (student project)](https://github.com/Black-Clover-FEC/black-clover-FEC) 🛍️ 
+- [Atelier Overview API (student project)](https://github.com/Lybica-SDC/Overview-API) 🛍️ 
 
 ### Hardware projects
 - [Vision Pro](https://www.apple.com/apple-vision-pro) 😎 
